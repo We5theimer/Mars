@@ -460,7 +460,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
   letter-spacing: -11px;
   font-size: 715Px;
   color: transparent;
-  background-image: url(../img/mars.gif);
+  background: center / cover no-repeat url('../img/Mars.gif');
   -webkit-background-clip: text;
   margin-top: -78px;
   margin-left: -27.5px;
